@@ -13,24 +13,24 @@ This is meant to run on Python 3
 
 ### Create a folder for your project
 
-$ mkdir myproject
+    $ mkdir myproject
 
 ### Create a venv for your project
 
-$ cd myproject
-$ python3 -m venv venv
+    $ cd myproject
+    $ python3 -m venv venv
 
 ### Activate the venv
 
-$ . venv/bin/activate
+    $ . venv/bin/activate
 
 ### Install Flask
 
-$ pip install Flask
+    $ pip install Flask
 
 ### Run the API
 
-$ python3 main.py
+    $ python3 main.py
 
 ## source
 
